@@ -23,7 +23,7 @@ Here is a list of deep learning resources devoted to the audio field.
 - [The promise of AI in audio processing](https://towardsdatascience.com/the-promise-of-ai-in-audio-processing-a7e4996eb2ca)
 - [What’s New in Deep Learning Research: Using Cross-Modal Learning to Build Neural Networks that See and Listen](https://towardsdatascience.com/whats-new-in-deep-learning-research-using-cross-modal-learning-to-build-neural-networks-that-see-34151fdd5034)
 - [A Comparison of Audio Signal Preprocessing Methods for Deep Neural Networks on Music Tagging](https://towardsdatascience.com/paper-summary-a-comparison-of-audio-signal-preprocessing-methods-for-deep-neural-networks-on-92a7bfacce26)
-- [deep-learning-audio-classification-and-beyond-4d2533080a33](https://medium.com/@franky07724_57962/deep-learning-audio-classification-and-beyond-4d2533080a33)
+- [Deep learning, Audio Classification, and Beyond](https://medium.com/@franky07724_57962/deep-learning-audio-classification-and-beyond-4d2533080a33)
 - [Redefining signal processing for audio and speech technologies](https://medium.com/@CogitoCorp/icassp-2018-redefining-signal-processing-for-audio-and-speech-technologies-5031d0f69d34)
 
 ## Tools

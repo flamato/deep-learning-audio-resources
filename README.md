@@ -26,6 +26,9 @@ Here is a list of deep learning resources devoted to the audio field.
 - [Deep learning, Audio Classification, and Beyond](https://medium.com/@franky07724_57962/deep-learning-audio-classification-and-beyond-4d2533080a33)
 - [Redefining signal processing for audio and speech technologies](https://medium.com/@CogitoCorp/icassp-2018-redefining-signal-processing-for-audio-and-speech-technologies-5031d0f69d34)
 
+## Collection
+[Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
+
 ## Tools list
 - [TensorFlow](https://www.tensorflow.org/)
    - [keras](https://keras.io/)

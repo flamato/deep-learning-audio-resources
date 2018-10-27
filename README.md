@@ -1,5 +1,5 @@
 # Deep Learning for audio resources
-Here is a list of deep learning resources devoted to the audio field. 
+Here is a list of deep learning resources devoted to audio. 
 
 ## Communities 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)

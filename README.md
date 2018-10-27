@@ -8,15 +8,16 @@ Here is a list of deep learning resources devoted to the audio field.
 - [Towards Data Science](https://towardsdatascience.com/)
 
 ## Introduction
-- [Speech Classification Using Neural Networks: The Basics](https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7)
-- [Getting Started with Audio Data Analysis using Deep Learning](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
-- [Building an Audio Classifier using Deep Neural Networks](https://www.kdnuggets.com/2017/12/audio-classifier-deep-neural-networks.html)
 - [Intro to audio processing world for a Data scientist](https://medium.com/deepaffects/intro-to-audio-processing-world-for-a-data-scientist-b1a6ff19231d)
+- [Getting Started with Audio Data Analysis using Deep Learning](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
+- [Speech Classification Using Neural Networks: The Basics](https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7)
+
 
 ## Usecases
 - [10 Audio Processing Tasks to get you started with Deep Learning Applications](https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/)
-- [Building a Speaker Identification System from Scratch with Deep Learning](https://medium.com/analytics-vidhya/building-a-speaker-identification-system-from-scratch-with-deep-learning-f4c4aa558a56)
 - [Audio Classification : A Convolutional Neural Network Approach](https://medium.com/@CVxTz/audio-classification-a-convolutional-neural-network-approach-b0a4fce8f6c)
+- [Building a Speaker Identification System from Scratch with Deep Learning](https://medium.com/analytics-vidhya/building-a-speaker-identification-system-from-scratch-with-deep-learning-f4c4aa558a56)
+- [Building an Audio Classifier using Deep Neural Networks](https://www.kdnuggets.com/2017/12/audio-classifier-deep-neural-networks.html)
 
 ## Advanced
 - [The promise of AI in audio processing](https://towardsdatascience.com/the-promise-of-ai-in-audio-processing-a7e4996eb2ca)

@@ -5,6 +5,7 @@ Here is a list of deep learning resources devoted to the audio field.
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Medium](https://medium.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
 
 ## Introduction
 - [Speech Classification Using Neural Networks: The Basics](https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7)
@@ -28,6 +29,6 @@ Here is a list of deep learning resources devoted to the audio field.
 - [TensorFlow](https://www.tensorflow.org/)
    - [keras](https://keras.io/)
    - [sonnet](https://github.com/deepmind/sonnet)
-   - [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim),
+   - [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 - [PyTorch](https://pytorch.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
